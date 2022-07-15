@@ -1,8 +1,10 @@
  # Am Kcodev
   
-- 👋 Hi, I’m @Odkcoder
+- 👋 Hi, I’m @Kcodev
 - 👀 I’m interested in Full Stack Python Dev Fask...
-- 🌱 I’m currently # My Road Map
+- 🌱 I’m currently Studing TechCamp Kenya
+
+# My Road Map
 
          • Internet, frontend fundamentals
          • HTML5, CSS3
