@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Front-ENd...
 - 💞️ I’m looking to collaborate on Growth ...
 - 📫 How to reach me odkhoder@gmail.com | 
--    Twitter https://twitter.com/Kcoder
+-    Twitter https://twitter.com/Kcodev
 - <> Coffee 
 - 
 
