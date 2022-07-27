@@ -6,8 +6,9 @@
 
 # My Road Map
 
-         • Internet, frontend fundamentals
-         • HTML5, CSS3
+         • Internet, frontend fundamentals ✔️
+         • HTML5,✔️ 
+         • CSS3
          • Git/Version control
          • Python
          • Databases (SQL) PostgresSql 
