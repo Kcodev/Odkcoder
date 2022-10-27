@@ -1,8 +1,8 @@
  # Am Kcodev
   
 - 👋 Hi, I’m @Kcodev
-- 👀 I’m interested in Full Stack Python Dev Fask...
-- 🌱 I’m currently Studing TechCamp Kenya
+- 👀 I’m Learning Full Stack Python Dev Fask...
+- 🌱 I’m currently Studing @ TechCamp Kenya
 
 # My Road Map
 
@@ -12,13 +12,13 @@
          • Git/Version control
          • Python
          • Databases (SQL) PostgresSql 
-         • Flask (Template and Jinja2)
-         • Pyscopg2
+         • Flask (Template,Jinja2 and Pyscopg2)
+        
         ...
-- 💞️ I’m looking to collaborate on Growth ...
+-    I’m looking to collaborate on Growth ...
 - 📫 How to reach me odkhoder@gmail.com | 
 -    Twitter https://twitter.com/Kcodev
-- <> Coffee 
+- {% Coffee %}
 - 
 
 <!---
