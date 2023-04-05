@@ -1,8 +1,7 @@
  # My Bio
   
-- 👋 Hi, I’m Kipkosgei
-- 👀 I’m Learning Full Stack Python Dev Fask...
-- 🌱 I’m Kenyan
+- 👋 Hi, I’m Kipkosgei from Kenya am Software Developer
+- 👀 Full Stack Python Dev Fask...
 
 # My Skills
 
