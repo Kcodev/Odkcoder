@@ -1,27 +1,24 @@
  # Am Kcodev
   
-- 👋 Hi, I’m @Kcodev
+- 👋 Hi, I’m Kipkosgei
 - 👀 I’m Learning Full Stack Python Dev Fask...
-- 🌱 I’m currently Studing @ TechCamp Kenya
+- 🌱 I’m Kenyan
 
-# My Road Map
+# My Skills
 
-         • Internet, frontend fundamentals ✔️
-         • HTML5,✔️ 
-         • CSS3
-         • Git/Version control
-         • Python
-         • Databases (SQL) PostgresSql 
-         • Flask (Template,Jinja2 and Pyscopg2)
+         • Front-END : HTML5,CSS3
+         • Version control : GIT
+         • Language : Python
+         • Databases : (SQL) DBMS- PostgresSql 
+         • Framework : Flask
         
         ...
 -    I’m looking to collaborate on Growth ...
 - 📫 How to reach me odkhoder@gmail.com | 
--    Twitter https://twitter.com/Kcodev
+-    Twitter https://twitter.com/Kipkosgeii
 - {% Coffee %}
 - 
 
 <!---
-Kcodev/Kcodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Kipkosgeii
 --->
