@@ -1,4 +1,4 @@
- # Am Kcodev
+ # My Bio
   
 - 👋 Hi, I’m Kipkosgei
 - 👀 I’m Learning Full Stack Python Dev Fask...
@@ -16,7 +16,7 @@
 -    I’m looking to collaborate on Growth ...
 - 📫 How to reach me odkhoder@gmail.com | 
 -    Twitter https://twitter.com/Kipkosgeii
-- {% Coffee %}
+-   {% Coffee %}
 - 
 
 <!---
