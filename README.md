@@ -15,7 +15,7 @@
 - 📫 How to reach me odkhoder@gmail.com | 
 -    Twitter https://twitter.com/Kipkosgeii
 -    {% Coffee %}
-- 
+-    Open For Internship
 
 <!---
 Kipkosgeii
