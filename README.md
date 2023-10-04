@@ -1,7 +1,7 @@
  # My Bio
   
 - 👋 Hi, I’m Kipkosgei from Kenya.
-- 👀 am Data Science Ethusiast, Bsc Computer science.
+- 👀 am Data Science Enthusiast, Bsc Computer science.
 
 # My Skills
 
