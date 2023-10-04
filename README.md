@@ -10,7 +10,6 @@
          • Databases : (SQL) DBMS- PostgresSql 
          • Framework : Flask
         
-        ...
 -    I’m looking to collaborate on Growth ...
 - 📫 How to reach me odkhoder@gmail.com | 
 -    Twitter https://twitter.com/Kipkosgeii
