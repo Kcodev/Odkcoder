@@ -1,6 +1,6 @@
  # My Bio
   
-    - 👋 Hi, I’m Kipkosgei from Kenya.
+    - 👋 Hi, I’m Kipkosgei from Kenya currently in United Kingdom.
     - 👀 am Data Science Enthusiast, Bsc Computer science.
  
         
@@ -8,7 +8,7 @@
  - 📫 How to reach me odkhoder@gmail.com | 
  - On X https://twitter.com/Kipkosgeii
  - ☕ {% Coffee %}
- - 🔓 Open For Internship
+ - 🔓 Open For Internship/Apprentiship
 
 <h2> &nbsp;Tools Worked and Learned</h2>
 <div align="center">
