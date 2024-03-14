@@ -5,7 +5,7 @@
  
         
  - 🦺 I’m looking to collaborate, create and Grow ...
- - 📫 How to reach me odkhoder@gmail.com | 
+ - 📫 How to reach me sammiekipkosgi@gmail.com | 
  - On X https://twitter.com/Kipkosgeii
  - ☕ {% Coffee %}
  - 🔓 Open For Internship/Apprentiship
