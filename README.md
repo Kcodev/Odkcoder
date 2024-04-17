@@ -2,13 +2,22 @@
   
     - 👋 Hi, I’m Kipkosgei from Kenya currently in United Kingdom.
     - 👀 am Data Science Enthusiast, Bsc Computer science.
- 
-        
  - 🦺 I’m looking to collaborate, create and Grow ...
+ 
  - 📫 How to reach me sammiekipkosgi@gmail.com | 
  - On X https://twitter.com/Kipkosgeii
  - ☕ {% Coffee %}
  - 🔓 Open For Internship/Apprentiship
+
+    <div id="badges">
+    <a href="https://www.linkedin.com/in/kipkosgei-sammy/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <br>
+    <a href="http://mailto:sammiekipkosgi@gmail.com">
+      <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+    </a>
+  </div>
 
 <h2> &nbsp;Tools Worked and Learned</h2>
 <div align="center">
@@ -27,4 +36,4 @@
 </div>
                               
                               
-                                                       --Kipkosgeii--
+                                                     --Kipkosgeii--
