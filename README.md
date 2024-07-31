@@ -1,7 +1,7 @@
- # My Bio
-  
-    - 👋 Hi, I’m Kipkosgei from Kenya currently in United Kingdom.
-    - 👀 am Data Science Enthusiast, Bsc Computer science.
+> ## **👋 Hey there! I’m Kipkosgei,**
+
+ 
+ > Ever wondered how data has, can and potential it holds? I’m a passionate data enthusiast on a quest to find those hidden gems within the numbers. Whether it’s transforming raw data into compelling stories or discovering patterns that spark innovation, I live and breathe data. What are possibilities that data can offers am eager to dive deep into the numbers, person!
  - 🦺 I’m looking to collaborate, create and Grow ...
  
  - 📫 How to reach me sammiekipkosgi@gmail.com | 
